@@ -1,6 +1,6 @@
 ### Olá! Eu sou jose🤗
 ### Meta Atual: Aprender Python em 2 meses
-
+### Programas/excícios feitos [78]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kier901/?next=%2F)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/kier34/s/HmJ94TTUFK)
 
